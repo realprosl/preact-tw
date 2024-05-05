@@ -6,8 +6,7 @@ export function App() {
     <>
       <div className="flex flex-col gap-2 mt-2 ml-2">
         <TextField label="Name" />
-        <TextField label="SubName" />
-        <RealSearch size="96%" placeholder="Search here..." />
+        <RealSearch size="96%" placeholder=" Search" />
       </div>
     </>
   );
