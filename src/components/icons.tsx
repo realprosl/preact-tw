@@ -8,7 +8,7 @@ export const IconsSearch = (props: Props) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
-      className="size-[70%] m-1"
+      className="size-[60%] m-1"
       fill="none"
     >
       <path
@@ -28,7 +28,6 @@ export const IconsDelete = (props: Props) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 1024 1024"
-      fill="#000000"
       version="1.1"
     >
       <path
